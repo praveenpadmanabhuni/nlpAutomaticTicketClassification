@@ -1,5 +1,5 @@
-Problem Statement
-Case Study: Automatic Ticket Classification
+Problem Statement:
+Automatic Ticket Classification NLP
 
 Problem statement
 For a financial company, customer complaints carry a lot of importance, as they are often an indicator of the shortcomings in their products and services. If these complaints are resolved efficiently in time, they can bring down customer dissatisfaction to a minimum and retain them with stronger loyalty. This also gives them an idea of how to continuously improve their services to attract more customers. 
